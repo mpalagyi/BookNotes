@@ -1,0 +1,53 @@
+---
+title: "Notes on Books I Read"
+author: "Matthew Palagyi"
+date: "December 27 2022"
+output:
+  html_document:
+    code_folding: hide
+    theme: flatly
+    df_print: paged
+    fig_width: 7
+    fig_height: 6
+    fig_caption: true
+    highlight: kate
+    toc: true
+    toc_float:
+      collapsed: false
+      smooth_scroll: false
+      html_notebook: default
+  pdf_document: default
+---
+
+# City Planning Books
+
+### 1. The Slaughter of Cities - E Michael Jones
+
+#### Quotes
+
+P. 57 - "McCloy had no scruples - moral, social, political, economic, or otherwise - when it came to putting his vision of the new America into practice. If winning the war against his ethnic opponents meant creating a socialist command economy, he was willing to pay the price."
+  
+--- McCloy the supposed origin-Catholic who rose to elitist fame and involvement after attending Harvard University in the early/mid 20th century. With his law degree and prowess, it was his aim and direction that led the United States to build their currently existing form of economy that's built on federal policy and social direction - stemming from the foreseen need to rise against Germany in WWII (apparently subversively driven by English spies on American soil). We'll see where else this spider web got tangled up with later maybe. But a big claim nonetheless. 
+  
+<br>
+
+P. 63 - "The effect of racial migration on cities like Philadelphia, Detroit, and Chicago is obvious. Not so obvious is the essentially relativizing effect that interracialism had on the primary Catholic community, the parish. The subordination of community life to other extrinsic goals relativized it and made community seem a matter of choice, which in a culture like thw United States in the 20th century, inevitably led to a kind of consumerism, as people chose their communities according to whim and ideological preference rather than having their communities chosen for them by where they lived"
+  
+--- How does one define community life? Relationships of proximity purely? Not quoted but supported in the text, was the Catholic intervention of Anna McGarry who supported the aims of the Catholic Bishop of Philadelphia at the time - welcome and evangelize the incoming Black populations who were being recruited for the wartime efforts under federal driven policy. To my eyes, the Church was preparing for what was inevitable. With the advent of technology and cars, I think community life was bound to move beyond pure proximity. But parish life is for sure important and how do we decide who we're involved with or who we aim to evangelize? Proximity is an indicator - and as Fr. Patrick Brisco argued, (podcast) perhaps it is the primary reality that we must engage with. HMMMMM. Online evangelization thoughts?
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
